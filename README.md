@@ -4,7 +4,7 @@
 
 ### Sobre Mim
 
-Desenvolvedor de sistemas apaixonado por criar soluções eficientes e inovadoras. Com vasta experiência em diversas tecnologias de desenvolvimento de software, estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Sou um desenvolvedor de sistemas da Unimed Maceió com experiência diversificadas. Atualmente, atuo no desenvolvimento de sistemas utilizando Delphi e no desenvolvimento web com PHP e JavaScript. Especializo-me também no desenvolvimento de chatbots utilizando a plataforma blip, criando soluções automatizadas e eficazes para interações digitais. Tenho forte expertise em bancos de dados, utilizando SQL e PL/SQL para gerenciar e manipular dados de maneira eficiente, com experiência em Oracle e phpMyAdmin. Além disso, possuo experiência com diversas bibliotecas e frameworks, otimização do desenvolvimento e manutenção de sistemas complexos, versionamento Git e desenvolvimento de APIs RESTful.
 
 ### Estatísticas do GitHub
 
