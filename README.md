@@ -32,14 +32,6 @@
   <img src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs"/>
 </div>
 
-## Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/KelvinOlivares/material-management-api">
-  </a>
-  <a href="https://github.com/KelvinOlivares/Advanced-login">
-  </a>
-</div>
 
 ## Conecte-se Comigo
 
