@@ -1,41 +1,64 @@
-# Olá, sou Kelvin Olivares!
-
-<p align="left">Hello World!!</p>
-
-### Sobre Mim
-
-Sou um desenvolvedor de sistemas da Unimed Maceió com experiência diversificadas. Atualmente, atuo no desenvolvimento de sistemas utilizando Delphi e no desenvolvimento web com PHP e JavaScript. Especializo-me também no desenvolvimento de chatbots utilizando a plataforma blip, criando soluções automatizadas e eficazes para interações digitais. Tenho forte expertise em bancos de dados, utilizando SQL e PL/SQL para gerenciar e manipular dados de maneira eficiente, com experiência em Oracle e phpMyAdmin. Além disso, possuo experiência com diversas bibliotecas e frameworks, otimização do desenvolvimento e manutenção de sistemas complexos, versionamento Git e desenvolvimento de APIs RESTful.
-
-### Estatísticas do GitHub
+# Olá, sou Kelvin Olivares! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub"  />
-  <img src="https://streak-stats.demolab.com?user=KelvinOlivares&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Gráfico de streak"  />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Sistemas;Especialista+em+Chatbots;Entusiasta+de+Banco+de+Dados&center=true&width=380&height=45">
 </div>
 
-### Habilidades
+## Sobre Mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo do JavaScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="Logo do PHP"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Logo do HTML5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo do CSS3"  />
+🚀 Desenvolvedor de sistemas na Unimed Maceió com experiência diversificada.
+💻 Especializado em Delphi, PHP, JavaScript e desenvolvimento de chatbots.
+🗃️ Forte expertise em bancos de dados SQL e PL/SQL (Oracle, phpMyAdmin).
+🔧 Experiência com diversas bibliotecas, frameworks e APIs RESTful.
+📊 Apaixonado por otimização de sistemas e versionamento com Git.
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170"/>
 </div>
 
-### Conecte-se Comigo
+## Habilidades
 
-<div align="left">
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs"/>
+</div>
+
+## Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/KelvinOlivares/seu-projeto-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=seu-projeto-1&theme=radical" alt="Projeto 1"/>
+  </a>
+  <a href="https://github.com/KelvinOlivares/seu-projeto-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=seu-projeto-2&theme=radical" alt="Projeto 2"/>
+  </a>
+</div>
+
+## Conecte-se Comigo
+
+<div align="center">
   <a href="https://br.linkedin.com/in/kelvinolivares" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="Logo do LinkedIn"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kelvinolivaresofc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Logo do Instagram"  />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/KelvinOlivares/KelvinOlivares/output/snake.svg" alt="Animação Snake" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KelvinOlivares&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil"/>
+</div>
