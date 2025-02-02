@@ -36,10 +36,8 @@
 
 <div align="center">
   <a href="https://github.com/KelvinOlivares/material-management-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=seu-projeto-1&theme=radical" alt="Projeto 1"/>
   </a>
   <a href="https://github.com/KelvinOlivares/Advanced-login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=seu-projeto-2&theme=radical" alt="Projeto 2"/>
   </a>
 </div>
 
