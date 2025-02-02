@@ -1,7 +1,7 @@
 # Olá, sou Kelvin Olivares! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Sistemas;Especialista+em+Chatbots;Entusiasta+de+Banco+de+Dados&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Sistemas;Desenvolvedor+em+Chatbots;Desenvolvedor+Web;Banco+de+Dados&center=true&width=380&height=45">
 </div>
 
 ## Sobre Mim
