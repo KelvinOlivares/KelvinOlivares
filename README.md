@@ -1,57 +1,96 @@
-# Olá, sou Kelvin Olivares! 👋
+# 👋 Olá, eu sou Kelvin Olivares
+
+💻 Desenvolvedor **Full Stack Pleno**  
+🚀 Especialista em **APIs, Chatbots e Sistemas Web**  
+📍 Maceió - AL | 🇧🇷 Brasil  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kelvinolivares)
+[![GitHub](https://img.shields.io/badge/GitHub-KelvinOlivares-181717?style=for-the-badge&logo=github)](https://github.com/KelvinOlivares)
+
+---
+
+## 🚀 Sobre mim
+
+Sou **Desenvolvedor Full Stack Pleno**, com forte atuação em **PHP, JavaScript, React e bancos de dados Oracle e MySQL**.  
+Tenho experiência completa no ciclo de desenvolvimento de software, desde o levantamento de requisitos até a entrega em produção.
+
+Atualmente atuo na **Unimed Maceió**, desenvolvendo **sistemas corporativos, APIs RESTful e chatbots**, com foco em **performance, integração e estabilidade**.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+de+Sistemas;Desenvolvedor+em+Chatbots;Desenvolvedor+Web;Banco+de+Dados&center=true&width=380&height=45">
-</div>
-
-## Sobre Mim
-
-🚀 Desenvolvedor de sistemas na Unimed Maceió com experiência diversificada.
-💻 Especializado em Delphi, PHP, JavaScript e desenvolvimento de chatbots.
-🗃️ Forte expertise em bancos de dados SQL e PL/SQL (Oracle, phpMyAdmin).
-🔧 Experiência com diversas bibliotecas, frameworks e APIs RESTful.
-📊 Apaixonado por otimização de sistemas e versionamento com Git.
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="170"/>
-</div>
-
-## Habilidades
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs"/>
-</div>
-
-
-## Conecte-se Comigo
-
-<div align="center">
-  <a href="https://br.linkedin.com/in/kelvinolivares" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/kelvinolivaresofc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:kelvinolivares1999@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="mailto:kelvin_olivares@hotmail.com">
-    <img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KelvinOlivares&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do Perfil"/>
-</div>
+## 🛠️ Stack Tecnológica
+
+### 🔹 Backend
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=embarcadero)
+
+### 🔹 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+
+### 🔹 Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+
+### 🔹 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 💼 Experiência
+
+### 🏥 Unimed Maceió — Desenvolvedor de Software
+**Jul 2022 · Atual**
+
+- Desenvolvimento e manutenção de sistemas web corporativos
+- Criação e integração de APIs RESTful
+- Desenvolvimento do chatbot institucional (Blip + Oracle)
+- Refatoração de sistemas legados
+- Redução de **40% no tempo de espera presencial** com soluções de autoatendimento
+
+---
+
+## 📌 Projetos Relevantes
+
+- 🤖 **Chatbot Corporativo (Blip + Oracle)**
+- 🔗 **APIs RESTful (PHP / Laravel)**
+- 🔐 **Painel Administrativo com autenticação**
+- 🌐 **Aplicações Web Responsivas**
+- 🧩 **Sistemas de Autoatendimento**
+
+---
+
+## 🎓 Formação & Certificações
+
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — *Uninassau (em andamento)*  
+
+📜 Blip Essentials • UI/UX • Cobit 2019 • Banco de Dados • Gestão de TI
+
+---
+
+## 📫 Contato
+
+📧 **Email:** kelvin_olivares@hotmail.com  
+💼 **LinkedIn:** linkedin.com/in/kelvinolivares  
+🐙 **GitHub:** github.com/KelvinOlivares  
+
+---
+
+⭐ *Focado em construir soluções robustas, escaláveis e bem estruturadas.*
