@@ -1,76 +1,72 @@
-# 👋 Olá, eu sou Kelvin Olivares
-
-💻 Desenvolvedor **Full Stack Pleno**  
-🚀 Especialista em **APIs, Chatbots e Sistemas Web**  
-📍 Maceió - AL | 🇧🇷 Brasil  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kelvinolivares)
-[![GitHub](https://img.shields.io/badge/GitHub-KelvinOlivares-181717?style=for-the-badge&logo=github)](https://github.com/KelvinOlivares)
+<!-- ANIMAÇÃO DE DIGITAÇÃO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Kelvin+Olivares;Desenvolvedor+Full+Stack+Pleno;Especialista+em+APIs+e+Chatbots;PHP+%7C+JavaScript+%7C+React" />
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## 👋 Sobre mim
 
-Sou **Desenvolvedor Full Stack Pleno**, com forte atuação em **PHP, JavaScript, React e bancos de dados Oracle e MySQL**.  
-Tenho experiência completa no ciclo de desenvolvimento de software, desde o levantamento de requisitos até a entrega em produção.
+Sou Desenvolvedor Full Stack Pleno, com sólida experiência em **PHP, JavaScript, React** e bancos de dados **Oracle e MySQL**.  
+Atuo em todas as etapas do ciclo de desenvolvimento de software, desde o levantamento e análise de requisitos até a implementação e entrega em produção.
 
-Atualmente atuo na **Unimed Maceió**, desenvolvendo **sistemas corporativos, APIs RESTful e chatbots**, com foco em **performance, integração e estabilidade**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=dracula&hide_border=true" />
-</div>
+Atualmente trabalho na **Unimed Maceió**, onde desenvolvo **sistemas corporativos, APIs RESTful e chatbots**, com foco em **performance, integração entre sistemas e estabilidade das aplicações**, sempre alinhado às boas práticas de engenharia de software.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🚀 Stack Tecnológica
 
-### 🔹 Backend
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=embarcadero)
+### 🧩 Backend
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=embarcadero)
 
-### 🔹 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap)
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-### 🔹 Banco de Dados
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+### 🗄️ Banco de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🔹 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 💼 Experiência
+## 📊 GitHub Analytics
 
-### 🏥 Unimed Maceió — Desenvolvedor de Software
-**Jul 2022 · Atual**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=dracula&hide_border=true"/>
+</p>
 
-- Desenvolvimento e manutenção de sistemas web corporativos
-- Criação e integração de APIs RESTful
-- Desenvolvimento do chatbot institucional (Blip + Oracle)
+---
+
+## 🧠 Experiência Profissional
+
+### 🏥 Unimed Maceió — Desenvolvedor de Software  
+📆 Jul 2022 · Atual
+
+- Desenvolvimento e manutenção de sistemas web corporativos  
+- Criação e integração de **APIs RESTful**
+- Desenvolvimento e evolução de **chatbot institucional (Blip + Oracle)**
 - Refatoração de sistemas legados
-- Redução de **40% no tempo de espera presencial** com soluções de autoatendimento
+- Implementação de soluções que reduziram em **40% o tempo de espera presencial**
 
 ---
 
-## 📌 Projetos Relevantes
+## 📌 Projetos em Destaque
 
 - 🤖 **Chatbot Corporativo (Blip + Oracle)**
-- 🔗 **APIs RESTful (PHP / Laravel)**
+- 🔗 **APIs RESTful em PHP/Laravel**
 - 🔐 **Painel Administrativo com autenticação**
 - 🌐 **Aplicações Web Responsivas**
 - 🧩 **Sistemas de Autoatendimento**
@@ -81,16 +77,32 @@ Atualmente atuo na **Unimed Maceió**, desenvolvendo **sistemas corporativos, AP
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — *Uninassau (em andamento)*  
 
-📜 Blip Essentials • UI/UX • Cobit 2019 • Banco de Dados • Gestão de TI
+📜  
+- Blip Essentials (Chatbots)  
+- Product Design UI/UX  
+- Cobit 2019 Foundation  
+- Implementação de Bancos de Dados  
+- Fundamentos da Gestão de TI  
 
 ---
 
 ## 📫 Contato
 
-📧 **Email:** kelvin_olivares@hotmail.com  
-💼 **LinkedIn:** linkedin.com/in/kelvinolivares  
-🐙 **GitHub:** github.com/KelvinOlivares  
+<p align="left">
+  <a href="mailto:kelvin_olivares@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-kelvin_olivares@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kelvinolivares">
+    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Focado em construir soluções robustas, escaláveis e bem estruturadas.*
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/KelvinOlivares/KelvinOlivares/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ *Construindo soluções robustas, escaláveis e bem estruturadas.*
