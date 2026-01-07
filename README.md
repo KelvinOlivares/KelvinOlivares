@@ -1,105 +1,100 @@
-<!-- ===================== ANIMAÇÃO DE DIGITAÇÃO ===================== -->
+# 👋 Olá, eu sou Kelvin Olivares
+
+💻 Desenvolvedor **Full Stack Pleno**  
+🚀 Especialista em **APIs, Chatbots e Sistemas Web**  
+📍 Maceió - AL | 🇧🇷 Brasil  
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Kelvin+Olivares;Desenvolvedor+Full+Stack+Pleno;Especialista+em+APIs+e+Chatbots;PHP+%7C+JavaScript+%7C+React"
-  />
+  <a href="https://linkedin.com/in/kelvinolivares">
+    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/KelvinOlivares">
+    <img src="https://img.shields.io/badge/GitHub-KelvinOlivares-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 👋 Sobre mim
+## 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack Pleno, com sólida experiência em **PHP, JavaScript, React** e bancos de dados **Oracle e MySQL**.  
-Atuo em todas as etapas do ciclo de desenvolvimento de software, desde o levantamento e análise de requisitos até a implementação e entrega em produção.
+Sou **Desenvolvedor Full Stack Pleno**, com experiência sólida em **PHP, JavaScript, React e bancos de dados Oracle e MySQL**.  
+Atuo no desenvolvimento de **sistemas web corporativos, APIs RESTful e chatbots**, participando de todo o ciclo da aplicação — da concepção à entrega.
 
-Atualmente trabalho na **Unimed Maceió**, onde desenvolvo **sistemas corporativos, APIs RESTful e chatbots**, com foco em **performance, integração entre sistemas e estabilidade das aplicações**, sempre alinhado às boas práticas de engenharia de software.
-
----
-
-## 🚀 Stack Tecnológica
-
-### 🧩 Backend
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=embarcadero)
-
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### 🗄️ Banco de Dados
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+Atualmente trabalho na **Unimed Maceió**, desenvolvendo soluções internas, integrando sistemas legados e criando aplicações modernas, escaláveis e seguras.
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
-## 🧠 Experiência Profissional
+## 💼 Experiência Profissional
 
 ### 🏥 Unimed Maceió — Desenvolvedor de Software  
-📆 Jul 2022 · Atual
+📅 **Jul 2022 · Atual**
 
-- Desenvolvimento e manutenção de sistemas web corporativos  
+- Desenvolvimento e manutenção de sistemas web corporativos
 - Criação e integração de **APIs RESTful**
-- Desenvolvimento e evolução de **chatbot institucional (Blip + Oracle)**
-- Refatoração de sistemas legados
-- Implementação de soluções que reduziram em **40% o tempo de espera presencial**
+- Desenvolvimento e evolução do **chatbot institucional (Blip + Oracle)**
+- Refatoração e modernização de sistemas legados
+- Implementação de soluções que reduziram o tempo de espera presencial em **40%**
+
+---
+
+### 🏥 Unimed Maceió — Analista de Suporte em TI  
+📅 **Jul 2020 · Jul 2022**
+
+- Suporte técnico a sistemas corporativos
+- Apoio em automações e testes
+- Integração de novos módulos internos
+
+---
+
+### 🏥 Santa Casa de Misericórdia de Maceió — Assistente de TI  
+📅 **Jun 2017 · Jul 2020**
+
+- Manutenção de sistemas hospitalares
+- Desenvolvimento de aplicações internas
+- Suporte à infraestrutura de TI
 
 ---
 
 ## 📌 Projetos em Destaque
 
-- 🤖 **Chatbot Corporativo (Blip + Oracle)**
-- 🔗 **APIs RESTful em PHP / Laravel**
-- 🔐 **Painel Administrativo com autenticação**
-- 🌐 **Aplicações Web Responsivas**
-- 🧩 **Sistemas de Autoatendimento**
+- 🤖 **Chatbot Institucional** — Blip integrado ao Oracle  
+- 🧩 **Sistema de Autoatendimento** — redução de filas em 40%  
+- 🔐 **Painel Administrativo** — PHP + MySQL com autenticação  
+- 🔗 **APIs RESTful** — Laravel, PHP e integração com legados  
+- 🌐 **Aplicações Web Responsivas** — HTML, CSS, JS e React  
 
 ---
 
-## 🎓 Formação & Certificações
+## 📊 GitHub Analytics
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — *Uninassau (em andamento)*  
-
-📜  
-- Blip Essentials (Chatbots)  
-- Product Design UI/UX  
-- Cobit 2019 Foundation  
-- Implementação de Bancos de Dados  
-- Fundamentos da Gestão de TI  
-
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="mailto:kelvin_olivares@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-kelvin_olivares@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/kelvinolivares">
-    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -109,4 +104,35 @@ Atualmente trabalho na **Unimed Maceió**, onde desenvolvo **sistemas corporativ
 
 ---
 
-⭐ *Construindo soluções robustas, escaláveis e bem estruturadas.*
+## 🎓 Formação
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+Uninassau — *Em andamento*
+
+---
+
+## 📜 Certificações
+
+- Blip Essentials — Blip Academy (2024)
+- Product Design UI/UX — Cubos Academy (2024)
+- Cobit 2019 Foundation — MasterHouse (2020)
+- Implementação de Bancos de Dados — Fundação Bradesco (2020)
+- Fundamentos da Gestão de TI — FGV (2020)
+
+---
+
+## 🌍 Idiomas
+
+🇺🇸 **Inglês Técnico (Intermediário)**  
+Leitura e escrita aplicadas à área de TI
+
+---
+
+## 📫 Contato
+
+📧 **Email:** kelvin_olivares@hotmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/kelvinolivares  
+
+---
+
+⭐ **Construindo soluções robustas, escaláveis e bem estruturadas.**
