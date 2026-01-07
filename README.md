@@ -1,6 +1,8 @@
-<!-- ANIMAÇÃO DE DIGITAÇÃO -->
+<!-- ===================== ANIMAÇÃO DE DIGITAÇÃO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Kelvin+Olivares;Desenvolvedor+Full+Stack+Pleno;Especialista+em+APIs+e+Chatbots;PHP+%7C+JavaScript+%7C+React" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Kelvin+Olivares;Desenvolvedor+Full+Stack+Pleno;Especialista+em+APIs+e+Chatbots;PHP+%7C+JavaScript+%7C+React"
+  />
 </p>
 
 ---
@@ -44,8 +46,10 @@ Atualmente trabalho na **Unimed Maceió**, onde desenvolvo **sistemas corporativ
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +70,7 @@ Atualmente trabalho na **Unimed Maceió**, onde desenvolvo **sistemas corporativ
 ## 📌 Projetos em Destaque
 
 - 🤖 **Chatbot Corporativo (Blip + Oracle)**
-- 🔗 **APIs RESTful em PHP/Laravel**
+- 🔗 **APIs RESTful em PHP / Laravel**
 - 🔐 **Painel Administrativo com autenticação**
 - 🌐 **Aplicações Web Responsivas**
 - 🧩 **Sistemas de Autoatendimento**
@@ -101,7 +105,7 @@ Atualmente trabalho na **Unimed Maceió**, onde desenvolvo **sistemas corporativ
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/KelvinOlivares/KelvinOlivares/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/KelvinOlivares/KelvinOlivares/output/github-contribution-grid-snake.svg)
 
 ---
 
