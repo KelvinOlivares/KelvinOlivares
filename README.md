@@ -29,6 +29,7 @@ Tenho perfil **técnico, organizado e orientado à performance**, sempre buscand
 ### 🔹 Backend
 - PHP (Puro, Laravel)
 - Node.js
+- Phyton
 - APIs RESTful
 - Delphi
 
@@ -44,19 +45,16 @@ Tenho perfil **técnico, organizado e orientado à performance**, sempre buscand
 - PL/SQL
 - phpMyAdmin
 
-### 🔹 Dev Tools
-- Git, GitHub, GitLab
-- CI/CD
-- Postman
-- VS Code
-- Scrum / Metodologias Ágeis
-
 ### 🔹 Outros
 - Chatbots corporativos (Blip)
 - UX/UI básico
 - Figma
 - Responsividade e usabilidade
 - Refatoração de sistemas legados
+- Git, GitHub, GitLab
+- CI/CD
+- Scrum / Metodologias Ágeis
+- Postman
 
 ---
 
