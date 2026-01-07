@@ -4,14 +4,8 @@
 🚀 Especialista em **APIs, Chatbots e Sistemas Web**  
 📍 Maceió - AL | 🇧🇷 Brasil  
 
-<p align="center">
-  <a href="https://linkedin.com/in/kelvinolivares">
-    <img src="https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/KelvinOlivares">
-    <img src="https://img.shields.io/badge/GitHub-KelvinOlivares-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Olivares-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kelvinolivares)
+[![GitHub](https://img.shields.io/badge/GitHub-KelvinOlivares-181717?style=for-the-badge&logo=github)](https://github.com/KelvinOlivares)
 
 ---
 
@@ -20,72 +14,99 @@
 Sou **Desenvolvedor Full Stack Pleno**, com experiência sólida em **PHP, JavaScript, React e bancos de dados Oracle e MySQL**.  
 Atuo no desenvolvimento de **sistemas web corporativos, APIs RESTful e chatbots**, participando de todo o ciclo da aplicação — da concepção à entrega.
 
-Atualmente trabalho na **Unimed Maceió**, desenvolvendo soluções internas, integrando sistemas legados e criando aplicações modernas, escaláveis e seguras.
+Atualmente trabalho na **Unimed Maceió**, onde sou responsável por:
+- Desenvolvimento e manutenção de sistemas internos
+- Criação e integração de APIs
+- Evolução do chatbot institucional (Blip)
+- Refatoração e modernização de sistemas legados
+
+Tenho perfil **técnico, organizado e orientado à performance**, sempre buscando soluções escaláveis, seguras e com boa experiência para o usuário.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+### 🔹 Backend
+- PHP (Puro, Laravel)
+- Node.js
+- APIs RESTful
+- Delphi
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
+### 🔹 Frontend
+- JavaScript
+- React / React Native
+- HTML5, CSS3
+- Bootstrap
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-</p>
+### 🔹 Bancos de Dados
+- Oracle
+- MySQL
+- PL/SQL
+- phpMyAdmin
+
+### 🔹 Dev Tools
+- Git, GitHub, GitLab
+- CI/CD
+- Postman
+- VS Code
+- Scrum / Metodologias Ágeis
+
+### 🔹 Outros
+- Chatbots corporativos (Blip)
+- UX/UI básico
+- Figma
+- Responsividade e usabilidade
+- Refatoração de sistemas legados
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🏥 Unimed Maceió — Desenvolvedor de Software  
-📅 **Jul 2022 · Atual**
+### 🏥 Unimed Maceió  
+**Desenvolvedor de Software** — *Jul 2022 · Atual*
 
-- Desenvolvimento e manutenção de sistemas web corporativos
-- Criação e integração de **APIs RESTful**
-- Desenvolvimento e evolução do **chatbot institucional (Blip + Oracle)**
-- Refatoração e modernização de sistemas legados
-- Implementação de soluções que reduziram o tempo de espera presencial em **40%**
+- Desenvolvimento e manutenção de sistemas web internos
+- Criação de APIs RESTful para integração com sistemas legados
+- Desenvolvimento do chatbot institucional integrado ao Oracle
+- Refatoração de sistemas antigos com foco em performance e segurança
+- Criação de aplicações de autoatendimento que reduziram em **40%** o tempo de espera presencial
 
 ---
 
-### 🏥 Unimed Maceió — Analista de Suporte em TI  
-📅 **Jul 2020 · Jul 2022**
+### 🏥 Unimed Maceió  
+**Analista de Suporte em TI** — *Jul 2020 · Jul 2022*
 
 - Suporte técnico a sistemas corporativos
-- Apoio em automações e testes
-- Integração de novos módulos internos
+- Apoio em automações e testes de sistemas internos
+- Integração de novos módulos e APIs
 
 ---
 
-### 🏥 Santa Casa de Misericórdia de Maceió — Assistente de TI  
-📅 **Jun 2017 · Jul 2020**
+### 🏥 Santa Casa de Misericórdia de Maceió  
+**Assistente de TI** — *Jun 2017 · Jul 2020*
 
-- Manutenção de sistemas hospitalares
+- Suporte e manutenção de sistemas hospitalares
 - Desenvolvimento de aplicações internas
-- Suporte à infraestrutura de TI
+- Apoio à infraestrutura de TI
 
 ---
 
 ## 📌 Projetos em Destaque
 
-- 🤖 **Chatbot Institucional** — Blip integrado ao Oracle  
-- 🧩 **Sistema de Autoatendimento** — redução de filas em 40%  
-- 🔐 **Painel Administrativo** — PHP + MySQL com autenticação  
-- 🔗 **APIs RESTful** — Laravel, PHP e integração com legados  
-- 🌐 **Aplicações Web Responsivas** — HTML, CSS, JS e React  
+- 🤖 **Chatbot Unimed**  
+  Chatbot institucional desenvolvido no Blip, integrado ao Oracle e sistemas internos
+
+- 🧩 **Sistema de Autoatendimento**  
+  Aplicação web que reduziu filas presenciais em 40%
+
+- 🔐 **Painel Administrativo**  
+  Sistema PHP + MySQL com autenticação e controle de conteúdo
+
+- 🔗 **APIs RESTful**  
+  Integração entre módulos Laravel e sistemas legados
+
+- 🌐 **Aplicações Web Responsivas**  
+  Interfaces modernas com HTML, CSS, JavaScript e React
 
 ---
 
@@ -98,7 +119,7 @@ Uninassau — *Em andamento*
 
 ## 📜 Certificações
 
-- Blip Essentials — Blip Academy (2024)
+- Blip Essentials (Chatbots) — Blip Academy (2024)
 - Product Design UI/UX — Cubos Academy (2024)
 - Cobit 2019 Foundation — MasterHouse (2020)
 - Implementação de Bancos de Dados — Fundação Bradesco (2020)
@@ -108,16 +129,17 @@ Uninassau — *Em andamento*
 
 ## 🌍 Idiomas
 
-🇺🇸 **Inglês Técnico (Intermediário)**  
-Leitura e escrita aplicadas à área de TI
+- 🇺🇸 **Inglês Técnico (Intermediário)**  
+  Leitura e escrita aplicadas à área de TI
 
 ---
 
 ## 📫 Contato
 
 📧 **Email:** kelvin_olivares@hotmail.com  
+📱 **Telefone:** (82) 99628-8946  
 💼 **LinkedIn:** https://linkedin.com/in/kelvinolivares  
 
 ---
 
-⭐ **Construindo soluções robustas, escaláveis e bem estruturadas.**
+⭐ *Sempre aberto a novos desafios, projetos e oportunidades!*
