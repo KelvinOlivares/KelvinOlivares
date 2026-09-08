@@ -159,6 +159,14 @@ Desenvolvedor Full Stack focado na criação de soluções escaláveis, seguras 
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
+    <td width="50%" valign="top">
+      <h3>🎫 EventHub API</h3>
+      <p><strong>Laravel 11 + Sanctum + Redis</strong></p>
+      <p>Plataforma de gestão de eventos e venda de ingressos com filas.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
   </tr>
 </table>
 
