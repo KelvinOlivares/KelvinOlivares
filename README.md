@@ -134,12 +134,12 @@ Desenvolvedor Full Stack focado na criação de soluções escaláveis, seguras 
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Chatbot Corporativo</h3>
-      <p><strong>Integração de APIs + IA</strong></p>
-      <p>Plataforma de chatbots corporativos com inteligência artificial.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <h3>🍔 QuickBite</h3>
+      <p><strong>React Native + Expo</strong></p>
+      <p>App de delivery de comida com carrinho, pedidos e perfil do usuário.</p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
   </tr>
 </table>
