@@ -151,6 +151,14 @@ Desenvolvedor Full Stack focado na criação de soluções escaláveis, seguras 
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
+    <td width="50%" valign="top">
+      <h3>📝 DevBlog API</h3>
+      <p><strong>PHP Puro + MySQL + Redis</strong></p>
+      <p>API RESTful completa com JWT, cache, segurança e Clean Architecture.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    </td>
   </tr>
 </table>
 
