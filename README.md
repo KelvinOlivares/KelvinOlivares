@@ -2,30 +2,30 @@
 
 # 👋 Olá, eu sou **Kelvin Olivares**
 
-### 🚀 **Full Stack Developer** | **Backend Specialist** | **Problem Solver**
+### 🚀 **Full Stack Developer** | **Backend Specialist** | **APIs & Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
-[![Location](https://img.shields.io/badge/Location-Maceió%2C%20AL-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Maceió,Alagoas,Brasil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Técnico-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/KelvinOlivares/blog)
 
 <br />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Construindo+soluções+escaláveis+e+de+alta+performance;Transformando+ideias+em+código+de+qualidade)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Construindo+sistemas+escaláveis+e+de+alta+performance;Transformando+ideias+em+produtos+digitais+de+qualidade;Desenvolvendo+APIs+e+soluções+modernas" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📊 **Números que falam por si**
+## 📊 **Números que Falam por Si**
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://github.com/KelvinOlivares">
-        <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&hide_border=true&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" width="25%">
@@ -36,7 +36,7 @@
     <td align="center" width="25%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <a href="https://github.com/KelvinOlivares">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&area_opacity=0.3" height="150" alt="Activity Graph" />
       </a>
@@ -48,76 +48,90 @@
 
 ---
 
-## 🎯 **Quem sou eu**
+## 🎯 **Quem Sou**
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  💼 Desenvolvedor Full Stack apaixonado por tecnologia         │
-│  🎯 Focado em soluções escaláveis e de alta performance        │
-│  🔧 Especialista em arquiteturas modernas e Clean Code         │
-│  🚀 Sempre buscando aprender e evoluir                        │
+│  💼 Desenvolvedor Full Stack com foco em Backend               │
+│  🎯 Especialista em APIs RESTful e sistemas escaláveis         │
+│  🔧 Arquitetura Limpa, SOLID e boas práticas                  │
+│  🚀 Sempre buscando evoluir e entregar valor                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+### 📌 **O que faço**
+
+- 🖥️ Desenvolvimento de aplicações Web completas
+- 📱 Desenvolvimento Mobile multiplataforma
+- 🔌 Desenvolvimento e integração de APIs RESTful
+- ⚙️ Backend, regras de negócio e arquitetura
+- 🗄️ Modelagem e otimização de bancos de dados
+- 🔐 Autenticação, segurança e boas práticas
+- 🚀 Desenvolvimento de produtos digitais escaláveis
 
 ---
 
 ## 🛠️ **Tech Stack**
 
-<div align="center">
+### **Linguagens**
 
-<table>
-  <tr>
-    <td align="center" width="15%">
-      <strong>Backend</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="15%">
-      <strong>Frontend</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="15%">
-      <strong>Databases</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="15%">
-      <strong>DevOps</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-</div>
+### **Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=none&logoColor=white" />
+</p>
+
+### **Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### **Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
+### **Banco de Dados**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### **DevOps & Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
 ---
 
@@ -162,6 +176,24 @@
 
 ## 🚀 **Projetos em Destaque**
 
+<div align="center">
+
+<a href="https://github.com/KelvinOlivares/eventhub-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=eventhub-api&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/KelvinOlivares/taskflow-pro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=taskflow-pro&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/KelvinOlivares/php-rest-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=php-rest-api&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 📂 **Todos os Projetos**
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -178,18 +210,6 @@
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>📝 DevBlog API</h3>
-        <p><em>API RESTful em PHP Puro</em></p>
-      </div>
-      <p>API completa sem frameworks com JWT, cache Redis, rate limiting e validação avançada.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
         <h3>🚀 TaskFlow Pro</h3>
         <p><em>SaaS Project Management</em></p>
       </div>
@@ -198,6 +218,18 @@
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📝 PHP REST API</h3>
+        <p><em>API em PHP Puro</em></p>
+      </div>
+      <p>API completa sem frameworks com JWT, cache Redis e Clean Architecture.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
       </div>
     </td>
   </tr>
@@ -277,27 +309,146 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🏗️ Microservices Platform</h3>
+        <p><em>Arquitetura multi-language</em></p>
+      </div>
+      <p>Microsserviços com Node.js, PHP e Python comunicando via RabbitMQ.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🏥 Clinic Manager</h3>
+        <p><em>Gestão de clínicas</em></p>
+      </div>
+      <p>Sistema completo de agenda e prontuário eletrônico.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🤖 Chatbot Corporativo</h3>
+        <p><em>IA para atendimento</em></p>
+      </div>
+      <p>Plataforma de chatbots com processamento de linguagem natural.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🐍 Go Finance Tracker</h3>
+        <p><em>Controle financeiro em Go</em></p>
+      </div>
+      <p>API de controle financeiro pessoal com Go, PostgreSQL e JWT.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>📚 Python LMS</h3>
+        <p><em>Sistema de cursos online</em></p>
+      </div>
+      <p>Sistema de gestão de cursos com Python puro, JWT e PostgreSQL.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3>🔐 Flask Auth API</h3>
+        <p><em>API de autenticação</em></p>
+      </div>
+      <p>API de autenticação completa com Flask, PostgreSQL e JWT.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+      </div>
+    </td>
+  </tr>
 </table>
-
-> 📦 **Total de projetos:** 11+ repositórios públicos com código de qualidade
 
 ---
 
-## 📚 **Repositórios Mais Populares**
+## 📝 **Blog Técnico**
 
 <div align="center">
 
-<a href="https://github.com/KelvinOlivares/eventhub-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=eventhub-api&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/KelvinOlivares/taskflow-pro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=taskflow-pro&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/KelvinOlivares/php-rest-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=php-rest-api&theme=tokyonight&hide_border=true" />
-</a>
+[![Blog](https://img.shields.io/badge/📖_Ler_Artigo-Clean_Architecture_no_PHP-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/KelvinOlivares/blog/blob/main/clean-architecture-php.md)
 
 </div>
+
+> Artigo completo sobre como construir APIs PHP escaláveis com Clean Architecture, testes unitários e boas práticas.
+
+---
+
+## 📚 **Experiência & Habilidades**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔧 Backend Development</h3>
+      <ul>
+        <li>PHP 8.x (Laravel, Symfony)</li>
+        <li>Node.js (NestJS, Express)</li>
+        <li>Python (FastAPI, Flask)</li>
+        <li>Go (APIs REST)</li>
+        <li>RESTful APIs & GraphQL</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Development</h3>
+      <ul>
+        <li>React / Next.js</li>
+        <li>Angular</li>
+        <li>React Native / Expo</li>
+        <li>TypeScript</li>
+        <li>HTML5 / CSS3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Databases</h3>
+      <ul>
+        <li>MySQL / PostgreSQL</li>
+        <li>MongoDB</li>
+        <li>Redis (Cache & Queues)</li>
+        <li>Oracle</li>
+        <li>Prisma / TypeORM</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 DevOps & Tools</h3>
+      <ul>
+        <li>Docker & Docker Compose</li>
+        <li>Git / GitHub Actions</li>
+        <li>Linux Administration</li>
+        <li>CI/CD Pipelines</li>
+        <li>JWT Authentication</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -305,9 +456,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Técnico-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/KelvinOlivares/blog)
 
 **📧 kelvin_olivares@hotmail.com** | **📍 Maceió, Alagoas, Brasil**
 
