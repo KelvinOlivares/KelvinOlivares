@@ -22,14 +22,25 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://streak-stats.demolab.com?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <br />
+      <small><b>KelvinOlivares</b></small>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true" height="150" alt="Activity Graph" />
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Repositórios-15-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+      <br />
+      <small>Projetos</small>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github-profile-trophy.vercel.app/?username=KelvinOlivares&theme=tokyonight&no-frame=true&no-bg=true&column=7" height="150" alt="Trophy" />
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Commits-72-10B981?style=for-the-badge&logo=git&logoColor=white" />
+      <br />
+      <small>Commits</small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Streak-2_dias-8B5CF6?style=for-the-badge&logo=fire&logoColor=white" />
+      <br />
+      <small>Sequência</small>
     </td>
   </tr>
 </table>
