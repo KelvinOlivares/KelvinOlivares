@@ -7,9 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
+
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Construindo+sistemas+escaláveis+e+de+alta+performance;Transformando+ideias+em+produtos+digitais+de+qualidade;Desenvolvendo+APIs+e+soluções+modernas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Construindo+sistemas+escal%C3%A1veis;Transformando+ideias+em+c%C3%B3digo+de+qualidade;Desenvolvendo+APIs+e+solu%C3%A7%C3%B5es+modernas" alt="Typing SVG" />
 
 </div>
 
@@ -52,7 +53,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  💼 Desenvolvedor Full Stack com foco em Backend               │
 │  🎯 Especialista em APIs RESTful e sistemas escaláveis         │
-│  🔧 Arquitetura Limpa, SOLID e boas práticas                  │
+│  🔧 SOLID e boas práticas de desenvolvimento                  │
 │  🚀 Sempre buscando evoluir e entregar valor                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -185,7 +186,7 @@
 
 ---
 
-## 📂 **Todos os Projetos**
+## 📂 **Projetos**
 
 <table>
   <tr>
@@ -218,7 +219,7 @@
         <h3>📝 PHP REST API</h3>
         <p><em>API em PHP Puro</em></p>
       </div>
-      <p>API completa sem frameworks com JWT, cache Redis e Clean Architecture.</p>
+      <p>API completa sem frameworks com JWT, cache Redis e boas práticas.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -389,7 +390,7 @@
     <td width="50%" valign="top">
       <h3>🔧 Backend Development</h3>
       <ul>
-        <li>PHP 8.x (Laravel, Symfony)</li>
+        <li>PHP 8.x (Laravel)</li>
         <li>Node.js (NestJS, Express)</li>
         <li>Python (FastAPI, Flask)</li>
         <li>Go (APIs REST)</li>
