@@ -107,7 +107,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=KelvinOlivares&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=KelvinOlivares&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
