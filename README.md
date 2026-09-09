@@ -7,8 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Técnico-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/KelvinOlivares/blog)
-
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Construindo+sistemas+escaláveis+e+de+alta+performance;Transformando+ideias+em+produtos+digitais+de+qualidade;Desenvolvendo+APIs+e+soluções+modernas" alt="Typing SVG" />
@@ -149,22 +147,17 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B35?style=for-the-badge&logo=none&logoColor=white" />
-      <br />
-      <small>Arquitetura Limpa</small>
-    </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/SOLID%20Principles-3B82F6?style=for-the-badge&logo=none&logoColor=white" />
       <br />
       <small>Princípios SOLID</small>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/RESTful%20APIs-10B981?style=for-the-badge&logo=none&logoColor=white" />
       <br />
       <small>APIs RESTful</small>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Microservices-8B5CF6?style=for-the-badge&logo=none&logoColor=white" />
       <br />
       <small>Microsserviços</small>
@@ -389,18 +382,6 @@
 
 ---
 
-## 📝 **Blog Técnico**
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/📖_Ler_Artigo-Clean_Architecture_no_PHP-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/KelvinOlivares/blog/blob/main/clean-architecture-php.md)
-
-</div>
-
-> Artigo completo sobre como construir APIs PHP escaláveis com Clean Architecture, testes unitários e boas práticas.
-
----
-
 ## 📚 **Experiência & Habilidades**
 
 <table>
@@ -459,7 +440,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolivares)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinOlivares)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin_olivares@hotmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Técnico-FF6B35?style=for-the-badge&logo=hashnode&logoColor=white)](https://github.com/KelvinOlivares/blog)
 
 **📧 kelvin_olivares@hotmail.com** | **📍 Maceió, Alagoas, Brasil**
 
