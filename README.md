@@ -16,44 +16,13 @@
 
 ---
 
-## 📊 **Números que Falam por Si**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/KelvinOlivares">
-        <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/KelvinOlivares">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" height="150" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/KelvinOlivares">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&area_opacity=0.3" height="150" alt="Activity Graph" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 **Quem Sou**
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  💼 Desenvolvedor Full Stack com foco em Backend               │
 │  🎯 Especialista em APIs RESTful e sistemas escaláveis         │
-│  🔧 SOLID e boas práticas de desenvolvimento                  │
+│  🔧 SOLID e boas práticas de desenvolvimento                   │
 │  🚀 Sempre buscando evoluir e entregar valor                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
