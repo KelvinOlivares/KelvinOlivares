@@ -16,6 +16,31 @@
 
 ---
 
+## 📊 **Números que Falam por Si**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" height="150" alt="Top Languages" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&area_opacity=0.3" height="150" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🎯 **Quem Sou**
 
 ```
@@ -103,11 +128,26 @@
 
 ---
 
-## 🏆 **Trophy Case**
+## 🏆 **Conquistas & Stats**
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=KelvinOlivares&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" height="150" alt="Top Languages" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&area_opacity=0.3" height="150" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -137,19 +177,16 @@
 
 ---
 
-## 🚀 **Projetos em Destaque**
+## 🚀 **Últimos Repositórios**
 
 <div align="center">
 
-<a href="https://github.com/KelvinOlivares/eventhub-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=eventhub-api&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/KelvinOlivares/taskflow-pro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=taskflow-pro&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/KelvinOlivares/php-rest-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=php-rest-api&theme=tokyonight&hide_border=true" />
-</a>
+[![eventhub-api](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=eventhub-api&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/eventhub-api)
+[![taskflow-pro](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=taskflow-pro&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/taskflow-pro)
+[![php-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=php-rest-api&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/php-rest-api)
+[![crm-system](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=crm-system&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/crm-system)
+[![graphql-taskmanager](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=graphql-taskmanager&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/graphql-taskmanager)
+[![fintrack-mobile](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=fintrack-mobile&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/fintrack-mobile)
 
 </div>
 
