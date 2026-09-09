@@ -16,23 +16,20 @@
 
 ---
 
-## 📊 **Números que Falam por Si**
+## 📊 **Meu Resumo no GitHub**
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+    <td align="center" width="33%">
+      <img src="https://streak-stats.demolab.com?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
     </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" height="150" alt="Top Languages" />
+    <td align="center" width="33%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true" height="150" alt="Activity Graph" />
     </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&area_opacity=0.3" height="150" alt="Activity Graph" />
+    <td align="center" width="33%">
+      <img src="https://github-profile-trophy.vercel.app/?username=KelvinOlivares&theme=tokyonight&no-frame=true&no-bg=true&column=7" height="150" alt="Trophy" />
     </td>
   </tr>
 </table>
@@ -128,31 +125,6 @@
 
 ---
 
-## 🏆 **Conquistas & Stats**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api?username=KelvinOlivares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinOlivares&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" height="150" alt="Top Languages" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinOlivares&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinOlivares&bg_color=1a1b27&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&area_opacity=0.3" height="150" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 💡 **Competências Chave**
 
 <table>
@@ -177,22 +149,64 @@
 
 ---
 
-## 🚀 **Últimos Repositórios**
+## 🚀 **Projetos em Destaque**
 
 <div align="center">
 
-[![eventhub-api](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=eventhub-api&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/eventhub-api)
-[![taskflow-pro](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=taskflow-pro&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/taskflow-pro)
-[![php-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=php-rest-api&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/php-rest-api)
-[![crm-system](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=crm-system&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/crm-system)
-[![graphql-taskmanager](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=graphql-taskmanager&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/graphql-taskmanager)
-[![fintrack-mobile](https://github-readme-stats.vercel.app/api/pin/?username=KelvinOlivares&repo=fintrack-mobile&theme=tokyonight&hide_border=true)](https://github.com/KelvinOlivares/fintrack-mobile)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/KelvinOlivares/eventhub-api">
+        <img src="https://img.shields.io/badge/🎫_EventHub_API-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      </a>
+      <br />
+      <small>Gestão de eventos</small>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KelvinOlivares/taskflow-pro">
+        <img src="https://img.shields.io/badge/🚀_TaskFlow_Pro-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      </a>
+      <br />
+      <small>SaaS Management</small>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KelvinOlivares/php-rest-api">
+        <img src="https://img.shields.io/badge/📝_PHP_REST_API-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      </a>
+      <br />
+      <small>API em PHP Puro</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/KelvinOlivares/crm-system">
+        <img src="https://img.shields.io/badge/🏗️_CRM_System-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      </a>
+      <br />
+      <small>Sistema CRM</small>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KelvinOlivares/graphql-taskmanager">
+        <img src="https://img.shields.io/badge/🔗_GraphQL_Task_Manager-Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+      </a>
+      <br />
+      <small>API GraphQL</small>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/KelvinOlivares/fintrack-mobile">
+        <img src="https://img.shields.io/badge/📱_FinTrack_Mobile-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </a>
+      <br />
+      <small>Controle financeiro</small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📂 **Projetos**
+## 📂 **Todos os Projetos**
 
 <table>
   <tr>
