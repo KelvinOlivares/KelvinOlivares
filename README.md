@@ -49,6 +49,20 @@
 
 ---
 
+## 📋 **Resumo Profissional**
+
+<div align="center">
+
+> Desenvolvedor Full Stack com sólida experiência no desenvolvimento de aplicações web, APIs REST e integrações corporativas. Atuação em projetos de alta disponibilidade, manutenção e evolução de sistemas legados, arquitetura de software e desenvolvimento de soluções voltadas para performance, escalabilidade e segurança.
+>
+> Experiência no desenvolvimento de aplicações utilizando **React**, **React Native**, **Angular**, **Laravel**, **Node.js**, **Python** (Django, Flask e FastAPI), além de bancos de dados relacionais e não relacionais, incluindo **Oracle (PL/SQL)**, **MySQL**, **MariaDB**, **SQLite** e **MongoDB**.
+>
+> Experiência no desenvolvimento de aplicações web responsivas, aplicativos móveis multiplataforma com React Native, construção e integração de APIs REST, microsserviços, automações, chatbots corporativos e integração entre sistemas.
+
+</div>
+
+---
+
 ## 🎯 **Quem Sou**
 
 ```
